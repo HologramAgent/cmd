@@ -1,0 +1,13 @@
+{
+  "author": "HologramAgent",
+  "auto_start": false,
+  "description": "沙箱内执行",
+  "entry": "plugin.bin",
+  "name": "cmd",
+  "name_en": "cmd",
+  "name_zh": "命令执行",
+  "tags": [
+    "cmd"
+  ],
+  "version": "1.0.0"
+}
